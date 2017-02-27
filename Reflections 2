@@ -1,0 +1,21 @@
+Git Commands
+
+mv where_file_is where_target_location_is
+
+cd ~                                      #changes the directory to your home directory
+mkdir version control                     #make version control directory
+cd version control                        # go do version control directory
+mkdir file_name                           # make directory with file name
+pwd                                       # print working director(prints the working directory you are currently in)
+ls                                        # lists files in the current directory
+git diff commit1 commit2                  #shows the difference between two commits
+                                              black - nothing has been changed
+                                              red - removed line
+                                              green - added
+git log                                   #lists the commits of the file in the current depository
+git log --stat                            # lists the commits and gives the stats
+git clone file_to_clone                   #copies the entire repository(files +history +trcaked files)
+git config                                # git config,configures git to specific settings
+git config --global color.ui auto         #configure git,--global means it will apply to all git projects(it will be default) so this state
+                                            ment changes colour for git
+git checkout                              #loads a specified commit or branch in the default depository
