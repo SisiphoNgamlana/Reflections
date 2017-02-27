@@ -1,0 +1,24 @@
+Git
+this is a version contrtol sysytems.Version control sysytems manage changes to source code over
+over time. It tracks changes that happen to files overtime.
+Git does this version control,it saves  the source code either in the local directory or
+distributed, allowing many different users to work on the same file without locking them out.
+
+Updating
+It is important that you update,this redusec chances of conflicts(changes in code since last update. 
+This is known as pushing or pulling.
+
+Conflicts
+These are changes in your ish that are very similar to the changes another person on the team has made
+
+Diffing
+This is the process of viewing difference among file or source code or between different versions of the same file
+Using diff, you see files that have been modified,by whom,and when.
+
+
+
+Branching
+Branching makes a copy(snapshot)of the repository that you can modify without affect the main branch(maib code)
+
+Merging
+Opposit of Branching
